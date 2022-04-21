@@ -14,7 +14,6 @@ func main() {
 	switch action {
 
 	case "new":
-		fmt.Println("new")
 		new()
 		break
 
